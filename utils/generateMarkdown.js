@@ -9,6 +9,23 @@ function renderLicenseBadge(license) {
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
+let licenseLink;
+
+  switch(license) {
+    case MIT: 
+      licenseLink = "https://mit-license.org";
+      break;
+    case Apache:
+      licenseLink = "https://www.apache.org/licenses/LICENSE-2.0.html";
+      break;
+    case GPLv2:
+      licenseLink = "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html"
+      break;
+    case None:
+      licenseLink = ""
+      break
+  }
+  return licenseLink;
   
 }
 
@@ -48,18 +65,11 @@ function generateMarkdown(data) {
 
   ${data.license}
   
-  The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-  
-  ---
-  
-  🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
   
   ## Badges
   
   ![License Badge](https://shields.io/badge/license-${data.license}-green)
   
-  
- 
   
   
   ## How to Contribute

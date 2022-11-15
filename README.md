@@ -1,4 +1,4 @@
-# sadf
+# Silly kids doing silly things
 
   ## Description
   
@@ -17,7 +17,7 @@
   
   ## Usage
   
-  asf
+  asdfasdf
 
   Active URL:
 
@@ -26,7 +26,7 @@
   
   ## License
 
-  None
+  MIT
   
   The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
   
@@ -36,7 +36,7 @@
   
   ## Badges
   
-  ![License Badge](https://shields.io/badge/license-None-green)
+  ![License Badge](https://shields.io/badge/license-MIT-green)
   
   
  
@@ -44,9 +44,9 @@
   
   ## How to Contribute
   
- asdf
+ asdfasdf
   
   ## Tests
   
-  asdf
+  asdfasdf
 
