@@ -31,7 +31,28 @@ let licenseLink;
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
-function renderLicenseSection(license) {}
+function renderLicenseSection(license) {
+
+  let licenseSect;
+  switch(license) {
+    case MIT: 
+      licenseSect = "https://mit-license.org";
+      break;
+    case Apache:
+      licenseSect = "https://www.apache.org/licenses/LICENSE-2.0.html";
+      break;
+    case GPLv2:
+      licenseSect = "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html"
+      break;
+    case None:
+      licenseSect = ""
+      break
+  }
+  return licenseSect;
+
+  
+    
+}
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
@@ -64,7 +85,6 @@ function generateMarkdown(data) {
   ## License
 
   ${data.license}
-  
   
   ## Badges
   
