@@ -28,7 +28,7 @@ This opens VS studio to view README and make adjustments as needed.
   
   Video of appropriate usage here: https://drive.google.com/file/d/1jjHVoZJlN8R3HbmLjoSer9NkYB1BGbAt/view
 
-  Active URL: https://github.com/RainbowToad/READMEg
+  Active URL: https://github.com/RainbowToad/README
 
   
   
@@ -42,7 +42,7 @@ This opens VS studio to view README and make adjustments as needed.
   
   ## Questions
 
-  If you have any questions you can reach me via e-mail at chad_spilker@hotmail.com. My GITHUB can be referenced at RainbowToad.
+  If you have any questions you can reach me via e-mail at chad_spilker@hotmail.com. My GITHUB username is RainbowToad.
   
   ## How to Contribute
   
