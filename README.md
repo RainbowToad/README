@@ -9,8 +9,9 @@
   
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Credits](#credits)
   - [License](#license)
+  - [Questions](#questions)
+  
   
   ## Installation
   
@@ -22,14 +23,14 @@ Then invoke the applications with: node index.js Complete the prompts to generat
 At completion:
 code .
 This opens VS studio to view README and make adjustments as needed.
-  
+
   ## Usage
   
-Link to video showing usage: https://drive.google.com/file/d/1jjHVoZJlN8R3HbmLjoSer9NkYB1BGbAt/view
+  Video of appropriate usage here: https://drive.google.com/file/d/1jjHVoZJlN8R3HbmLjoSer9NkYB1BGbAt/view
 
-  Active URL: https://rainbowtoad.github.io/README
+  Active URL: https://github.com/RainbowToad/READMEg
 
-
+  
   
   ## License
 
@@ -39,13 +40,15 @@ Link to video showing usage: https://drive.google.com/file/d/1jjHVoZJlN8R3HbmLjo
   
   ![License Badge](https://shields.io/badge/license-MIT-green)
   
-  
+  ## Questions
+
+  If you have any questions you can reach me via e-mail at chad_spilker@hotmail.com. My GITHUB can be referenced at RainbowToad.
   
   ## How to Contribute
   
- Not at this time
+ There are no specific contribution guidelines
   
   ## Tests
   
-  No current tests are being evaluated
+  At this time I have no tests for this application
 

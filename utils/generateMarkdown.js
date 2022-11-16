@@ -66,8 +66,9 @@ function generateMarkdown(data) {
   
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Credits](#credits)
   - [License](#license)
+  - [Questions](#questions)
+  
   
   ## Installation
   
@@ -90,7 +91,9 @@ function generateMarkdown(data) {
   
   ![License Badge](https://shields.io/badge/license-${data.license}-green)
   
-  
+  ## Questions
+
+  If you have any questions you can reach me via e-mail at ${data.mail}. My GITHUB username is ${data.username}.
   
   ## How to Contribute
   
