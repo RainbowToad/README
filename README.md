@@ -28,7 +28,7 @@ This opens VS studio to view README and make adjustments as needed.
   
   Video of appropriate usage here: https://drive.google.com/file/d/1jjHVoZJlN8R3HbmLjoSer9NkYB1BGbAt/view
 
-  Active URL: https://github.com/RainbowToad/README
+  Active URL: https://rainbowtoad.github.io/README/
 
   
   
